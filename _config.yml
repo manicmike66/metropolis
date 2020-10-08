@@ -1,0 +1,16 @@
+title: Metropolis Clothing
+email: mike@mikewilliamswebsites.com.au
+description: Metropolis Clothing Melbourne, Australia
+baseurl: 
+#baseurl: /metropolis
+url: "https://metropolisclothing.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  manicmike66
+plugins:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

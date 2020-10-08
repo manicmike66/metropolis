@@ -1,0 +1,140 @@
+BODY {
+	background : #E7CEC6;
+	color : #553925;
+	font-family: Times New Roman, Serif;
+	margin-left: 15px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right : 15px;
+}
+A:link {
+	color: #FF6347;
+	font-weight: bold;
+	text-decoration : none;
+}
+A:visited {
+	color: Red;
+	font-weight: bold;
+	text-decoration : none;
+}
+A:hover {
+	color: Yellow;
+	font-weight: bold;
+	text-decoration : none;
+}
+A:active {
+	color: Yellow;
+	text-decoration : none;
+}
+
+H1 {
+	background: #FFFFFF;
+	color : #A9765B;
+	font-weight: bold;
+	font-size : 25pt;
+	font-family : serif;
+	text-align : center
+}
+
+H2 {
+	color : #553925;
+	font-weight: bold;
+	font-size : 18pt;
+	font-family : serif;
+}
+
+H3 {
+	color : #553925;
+	font-weight: bold;
+	font-size : 15pt;
+	font-family : serif;
+}
+
+H4 {
+	color : #553925;
+	font-weight: bold;
+	font-size : 13pt;
+	font-family : serif;
+
+}
+
+H5 {
+	background: #553925 top;
+	color : White;
+	font-weight: bold;
+	font-size : 12pt;
+	font-family : serif;
+	text-indent : 20px;
+}
+
+H6 {
+	color : #553925;
+	font-weight: bold;
+	font-size : 12pt;
+	font-family : serif;
+	text-align : center
+
+}
+@media (max-width:684px){
+    .dropdown-toggle{
+        font-size: 0.8rem;
+    }
+    .dropdown{
+        width: 125px;
+    }
+    .tbItem{
+        padding-left: 0rem;
+    }
+    .navbar-nav{
+        padding-left: 0rem;
+    }
+    h4.priceheading{
+        font-size:x-small;
+    }
+    .itemdesc{
+        font-size:x-small;
+    }
+}
+@media (max-width:768px){
+    .itemlink{
+        font-size:small;
+    }
+}
+
+@media (max-width:800px){
+    .priceheading{
+        font-size:small;
+    }
+    .h1{
+    font-size:1.4rem;
+    }
+}
+@media (max-width:500px){
+    .h1{
+    font-size:1rem;
+    }
+}
+.menubar{
+    list-style:none;
+    text-align:center;
+}
+a.tbItemLink:link{
+    color:white;
+}
+a.tbItemLink:visited{
+    color:white;
+}
+/*.vertical-center {
+  min-height: 100px;  Fallback for browsers do NOT support vh unit */
+/*  display: flex;
+  align-items: center;
+}*/
+a.dropdown-item{
+    border-bottom: solid 1px #8b583d;
+}
+a.dropdown-item:link{
+    color: #8b583d;
+}
+a.dropdown-item:visited{
+    color: #8b583d;
+}
