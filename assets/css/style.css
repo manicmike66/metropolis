@@ -1,7 +1,8 @@
 BODY {
-        background-image: url(../img/Metropolis-1927.jpg);
+        background-image: url(../img/Metropolis-1927-dark.jpg);
         background-repeat: no-repeat;
         background-size:100%;
+        background-color: black;
 	color : #fff;
 	font-family: Times New Roman, Serif;
 	margin-left: 15px;
@@ -147,6 +148,6 @@ body.bg{
     background-size:100%;
 }
 ul {
-    list-style-image: url(../buttons/bullet-deco.png);
+    list-style-image: url(../buttons/deco-bullet-4.png);
     list-style-position: inside;
 }
