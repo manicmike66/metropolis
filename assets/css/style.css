@@ -146,3 +146,7 @@ body.bg{
     background-repeat: no-repeat;
     background-size:100%;
 }
+ul {
+    list-style-image: url(../buttons/bullet-deco.png);
+    list-style-position: inside;
+}
