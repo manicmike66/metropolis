@@ -138,3 +138,8 @@ a.dropdown-item:link{
 a.dropdown-item:visited{
     color: #8b583d;
 }
+body.bg{
+    background-image: url(../img/Metropolis-1927.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+}

@@ -2,6 +2,7 @@
 title: Home page
 layout: frontpage
 keywords: "Pattern making, custom clothing, clothing, Melbourne, Helen Aldred, design"
+bodyappend: class="bg"
 
 ---
 <div class="container justify-content-center">
