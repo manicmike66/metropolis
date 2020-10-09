@@ -66,10 +66,8 @@ $(document).ready(function(){
 });
 </script>
 <nav id="Toolbar"  class="navbar navbar-expand-sm tbToolbar my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
-<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<div class="ml-auto">
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon bg-light"></span>
-</div>
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->

@@ -102,6 +102,9 @@ H6 {
     .itemdesc{
         font-size:x-small;
     }
+    .navbar-collapse.collapse{
+        flex-basis: 0;
+    }
 }
 @media (max-width:768px){
     .itemlink{
