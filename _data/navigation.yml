@@ -1,8 +1,10 @@
 - title: Home
   url: /
-- title: Contact me
-  url: /contact/
+- title: Services
+  url: /services/
 - title: Gallery
   url: /gallery/
 - title: Clothes for sale
   url: /shop/
+- title: Contact me
+  url: /contact/

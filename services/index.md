@@ -1,8 +1,8 @@
 ---
-title: Gallery
+title: Services
 layout: normal
-description: "Contact me"
-keywords: "Contact Helen"
+description: "What services I offer"
+keywords: "Helen Aldred, sewing, pattern making, melbourne, australia, northcote, metropolis"
 
 ---
 
