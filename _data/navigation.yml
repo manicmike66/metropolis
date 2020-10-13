@@ -1,5 +1,10 @@
 - title: Home
   url: /
+  sublinks:
+      - title: Home
+        url: /
+      - title: About me
+        url: about.html
 - title: Services
   url: /services/
 - title: Gallery

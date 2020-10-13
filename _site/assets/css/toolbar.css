@@ -1,6 +1,6 @@
 .tbToolbar {
-	border-top: 4px solid #8b583d;
-	border-bottom: 4px solid #8b583d;
+	border-top: 4px solid #f15d00;
+	border-bottom: 4px solid #f15d00;
 	background-color: transparent;
 	width:auto;
 	height: auto;
@@ -9,7 +9,7 @@
 	padding-left:15px;
 	padding-right : 15px;
 	margin: 50px;
-	color: #8b583d;
+	color: #f15d00;
 	text-align : center;
 	position: static;
 }
@@ -31,7 +31,7 @@
 	text-decoration: none;
 	border: 2px solid #FFFFF0;
 	text-align : center;
-	background-color : #8b583d;
+	background-color : #f15d00;
 	color : White;
 	width : 160px;
 	font-family : "MS Serif", "New York", serif;
@@ -45,9 +45,9 @@
 	padding-right:2px;
 	margin:2px;
 	text-decoration: none;
-	border: 2px solid #8b583d;
+	border: 2px solid #f15d00;
 	background-color: #FFFFF0;
-	color: #8b583d;
+	color: #f15d00;
 	position:relative;
 	text-align : center;
 	width : 150px;
@@ -70,11 +70,11 @@
 	cursor:select;
 	padding:0px;
 	margin:0px;
-	border: 1px solid #8b583d;
+	border: 1px solid #f15d00;
 	background-color : #FFFFF0;
 	text-align : center;
 	width : 150px;
-	color : #8b583d;
+	color : #f15d00;
 }
 .tbSubItemLinkSelected {
 	cursor:pointer;
@@ -82,7 +82,7 @@
 	margin:0px;
 	width: 150px;
 	border: 1px solid #FF8C00;
-	background-color: #8b583d;
+	background-color: #f15d00;
 	color : White;
 	text-align : center;
 }
