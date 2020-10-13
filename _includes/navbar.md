@@ -44,7 +44,7 @@
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
 .nav-link{
-    padding: 0rem 1.5rem;
+    padding: 0.5rem 1.5rem;
 }
 </style>
 <script>
@@ -71,15 +71,15 @@ $(document).ready(function(){
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
-        {% assign navstyle = 'border border-white mx-2' %}
+        {% assign navstyle = 'border nav-item border-white mx-2' %}
         {% assign links = site.data.navigation %}
         {% for entry in links %}
-            {% assign class = nav-item my-auto %}
+            {% assign class = nav-item %}
             {% if page.url == entry.url %}
-                {% assign class = 'nav-item my-auto active' %}
+                {% assign class = 'nav-item active' %}
             {% endif %}
             {% if entry.sublinks %}
-                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item my-auto tbItem dropdown {{ class }} ">
+                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} tbItem dropdown {{ class }} ">
                     <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="{{entry.title}}-link">
                         {% for sublink in entry.sublinks %}
