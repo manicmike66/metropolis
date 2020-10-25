@@ -1,15 +1,15 @@
 - title: Home
-  url: /
+  url: 
   sublinks:
       - title: Home
-        url: /
+        url: 
       - title: About me
         url: about.html
 - title: Services
-  url: /services/
+  url: services/
 - title: Gallery
-  url: /gallery/
+  url: gallery/
 - title: Clothes for sale
-  url: /shop/
+  url: shop/
 - title: Contact me
-  url: /contact/
+  url: contact/
