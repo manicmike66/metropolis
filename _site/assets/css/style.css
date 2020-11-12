@@ -1,9 +1,9 @@
 BODY {
-        background-image: url(../img/Metropolis-1927-dark.jpg);
+        /*background-image: url(../img/Metropolis-1927-dark.jpg);*/
         background-repeat: no-repeat;
         background-size:100%;
-        background-color: black;
-	color : #fff;
+        background-color: white;
+	color : #000;
 	font-family: Times New Roman, Serif;
 	margin-left: 15px;
 	margin-top: 50px;
@@ -17,7 +17,7 @@ A:link {
 	text-decoration : none;
 }
 A:visited {
-	color: white;
+	color: #E32;
 	font-weight: bold;
 	text-decoration : none;
 }
@@ -32,7 +32,7 @@ A:active {
 }
 
 H1 {
-	background: #FFFFFF;
+	background: #fff;
 	color : #A9765B;
 	font-weight: bold;
 	font-size : 25pt;
@@ -64,7 +64,7 @@ H4 {
 
 H5 {
 	background: #553925 top;
-	color : White;
+	color : black;
 	font-weight: bold;
 	font-size : 12pt;
 	font-family : serif;
@@ -136,19 +136,20 @@ H6 {
     text-align:center;
 }
 a.tbItemLink:link{
-    color:white;
+    color:#E32;
 }
 a.tbItemLink:visited{
-    color:white;
+    color:#E32;
 }
 a.dropdown-item{
-    border-bottom: solid 1px #f15d00;
+    border-bottom: solid 1px #E32;
 }
 a.dropdown-item:link{
-    color: #f15d00;
+    color: #E32;
 }
 a.dropdown-item:visited{
-    color: #f15d00;
+/*    color: #f15d00;*/
+    color: #E32;
 }
 body.bg{
     background-image: url(../img/Metropolis-1927.jpg);
@@ -156,7 +157,7 @@ body.bg{
     background-size:100%;
 }
 ul {
-    list-style-image: url(../buttons/deco-bullet-4.png);
+    /*list-style-image: url(../buttons/deco-bullet-4.png);*/
     list-style-position: inside;
 }
 .dropdown-menu{

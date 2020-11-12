@@ -7,34 +7,21 @@ keywords: "Pattern making, custom clothing, clothing, Melbourne, Helen Aldred, d
 <div class="container justify-content-center">
 <div class="row">
 <div class="col">
-<p>Established in 2016, Metropolis Clothing is an Australian brand of clothing inspired by historic fashions from Art Deco through to the Mid Century eras. <br/>
-I offer the following services:</p>
+<p>
+Established in 2016, Metropolis Clothing is an Australian brand of clothing inspired by historic fashions from Art Deco through to the Mid Century eras. All my designs are limited edition handmade in my studio in Melbourne, Australia.  I offer a range of services.</p>
+<p>
+Products and Services:</p>
 <ul>
-<li>
-Original and fabulous clothing
-</li>
-<li>
-Made to measure dressmaking
-</li>
-<li>
-Mens casual vintage made to measure
-</li>
-<li>
-Clothing alterations and repairs
-</li>
-<li>
-Pattern making service (manual)
-</li>
-<li>
-Lectra CAD freelancing
-</li>
+<li>Clothing<ul><li>Original and fabulous clothing.</li></ul></li>
+<li>Seamstress:<ul><li>Women’s and men’s made to measure clothing.</li>
+<li> Clothing alterations and repairs.</li></ul></li>
+<li>Pattern making:<ul><li> Manual.</li>
+<li> Lectra CAD freelancing.</li>
+<li> Grading.</li>
+</ul></li>
+<li>Gallery</li>
+<li>Vintage clothing<ul><li>Sales.</li> </ul></li>
 </ul>
-<p>
-When repairing and altering vintage garments ensure the best fit and appearance for both wearer and garment, maintaining integrity of the original design. All garments are made in Melbourne, Australia.<br/>
-</p>
-<p>
-Please contact me directly for any of the above services.
-</p>
 </div><!-- end outer col -->
 </div><!-- end outer row -->
 </div><!-- end container -->
