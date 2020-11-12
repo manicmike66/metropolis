@@ -1,5 +1,10 @@
   {%- include head.md -%}
   <body {{page.bodyappend}}{% if page.bodyclass %} class="{{ page.bodyclass }}"{% endif %}>
     {%- include header.html -%}
+    {% if page.printtitle %}
+    <div class="container text-center">
+    <h1>{{page.title}}</h1>
+    </div>
+    {% endif %}
     {{ content }}
     {%- include footer.html -%}

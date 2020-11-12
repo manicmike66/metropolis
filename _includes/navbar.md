@@ -79,7 +79,7 @@ $(document).ready(function(){
                 {% assign class = 'nav-item active' %}
             {% endif %}
             {% if entry.sublinks %}
-                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} tbItem dropdown {{ class }} ">
+                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} tbItem my-auto dropdown {{ class }} ">
                     <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="{{entry.title}}-link">
                         {% for sublink in entry.sublinks %}

@@ -33,7 +33,7 @@ A:active {
 
 H1 {
 	background: #fff;
-	color : #A9765B;
+	color : #E32;
 	font-weight: bold;
 	font-size : 25pt;
 	font-family : serif;
@@ -41,21 +41,21 @@ H1 {
 }
 
 H2 {
-	color : yellow;
+	color : #E32;
 	font-weight: bold;
 	font-size : 18pt;
 	font-family : serif;
 }
 
 H3 {
-	color : yellow;
+	color : #E32;
 	font-weight: bold;
 	font-size : 15pt;
 	font-family : serif;
 }
 
 H4 {
-	color : yellow;
+	color : #E32;
 	font-weight: bold;
 	font-size : 14pt;
 	font-family : serif;
@@ -64,7 +64,7 @@ H4 {
 
 H5 {
 	background: #553925 top;
-	color : black;
+	color : #E32;
 	font-weight: bold;
 	font-size : 12pt;
 	font-family : serif;
@@ -72,7 +72,7 @@ H5 {
 }
 
 H6 {
-	color : #553925;
+	color : #E32;
 	font-weight: bold;
 	font-size : 12pt;
 	font-family : serif;

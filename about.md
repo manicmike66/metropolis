@@ -1,6 +1,7 @@
 ---
 title: About me
 layout: normal
+printtitle: yes
 keywords: "Pattern making, custom clothing, clothing, Melbourne, Helen Aldred, design 1920s, 1930s, art deco"
 
 ---
