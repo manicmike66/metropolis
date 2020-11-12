@@ -119,10 +119,16 @@ H6 {
     .h1{
     font-size:1.4rem;
     }
+    .jackets{
+        font-size: 12pt;
+    }
 }
 @media (max-width:500px){
     .h1{
     font-size:1rem;
+    }
+    .jackets{
+        font-size: 10pt;
     }
 }
 .menubar{
@@ -160,4 +166,9 @@ ul {
 .form-group.required .control-label:after{
     content: '*';
     color: red;
+}
+img.jackets {
+    position: relative;
+    float:left;
+    width: 100%;
 }
