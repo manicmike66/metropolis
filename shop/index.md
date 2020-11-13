@@ -6,24 +6,6 @@ keywords: "Clothing, for sale, Melbourne, Australia"
 
 ---
 
-<style>
-.tooltip-wrap {
-  position: relative;
-}
-.tooltip-wrap .tooltip-content {
-  display: none;
-  position: absolute;
-  top: 5%;
-  left: 5%;
-  right: 5%;
-  background-color: #fff;
-  padding: .5em;
-  opacity: 65%;
-}
-.tooltip-wrap:hover .tooltip-content {
-  display: block;
-}
-</style>
 
 <div class="container mb-4">
 

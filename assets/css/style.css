@@ -131,6 +131,23 @@ H6 {
         font-size: 10pt;
     }
 }
+.tooltip-wrap {
+  position: relative;
+}
+.tooltip-wrap .tooltip-content {
+  display: none;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: #fff;
+  padding: .5em;
+  opacity: 65%;
+}
+.tooltip-wrap:hover .tooltip-content {
+  display: block;
+}
+
 .menubar{
     list-style:none;
     text-align:center;
