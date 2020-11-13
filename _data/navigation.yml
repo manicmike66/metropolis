@@ -6,7 +6,12 @@
       - title: About me
         url: about.html
 - title: Services
-  url: services/
+  url: 
+  sublinks:
+      - title: Seamstress
+        url: services/seamstress.html
+      - title: Alterations and Repairs
+        url: services/alterations.html
 - title: Gallery
   url: gallery/
 - title: Clothes for sale
