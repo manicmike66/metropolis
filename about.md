@@ -17,7 +17,8 @@ I use my own original patterns as well as vintage domestic patterns to create au
 I have eighteen years industry experience in pattern making, both manual and using Lectra CAD software.  I'm a high level technician with innovative ideas, have broad knowledge of fabrics (their strengths and weakness) and I have seven years experience working in garment technology and quality assurance. 
 </p>
 <ul>I aim to:
-<li> Produce the highest quality clothing possible</li>
+<li> Produce the highest quality clothing I can</li>
+<li> Make my customers happy</li>
 <li> Support local businesses where possible</li>
 <li> Choose environmental friendly and sustainable products</li>
 <li> Create long lasting garments to support a sustainable environment</li>
