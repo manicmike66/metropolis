@@ -1,5 +1,6 @@
 BODY {
-        background-image: url(../img/logo040.png);
+/*        background-image: url(../img/logo040.png);*/
+        background-color: #fff;
         background-repeat: no-repeat;
         background-size:cover;
         position: absolute;
