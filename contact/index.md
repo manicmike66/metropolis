@@ -11,8 +11,7 @@ keywords: "Contact Helen"
 <div class="row">
 <div class="col-6 my-4">
 <h3>Contact me</h3>
-<p>If you would like to discuss your project, please send me a message.<br/>
-I do care about quality and rely on my reputation</p>
+<p>If you would like to discuss your project, please send me a message.</p>
 <p>Work hours:<br/>
 Mon - Fri 9:00 am - 5:00 pm<br/>
 Weekends by appointment</p>
