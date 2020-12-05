@@ -1,22 +1,16 @@
 - title: Home
-  url: 
-  sublinks:
-      - title: Home
-        url: 
-      - title: About me
-        url: about.html
-- title: Services
-  url: 
-  sublinks:
-      - title: Seamstress
-        url: services/seamstress.html
-      - title: Alterations and Repairs
-        url: services/alterations.html
+  url: 'index.html'
+- title: About me
+  url: 'index.html#about'
+- title: Seamstress
+  url: 'index.html#seamstress'
+- title: Alterations and Repairs
+  url: 'index.html#alterations'
 - title: Sizing
-  url: useful/sizing.html
+  url: 'index.html#sizing'
 - title: Gallery
   url: gallery/
-- title: Clothes for sale
-  url: shop/
+  # - title: Clothes for sale
+  #   url: 'index.html#clothesforsale'
 - title: Contact me
-  url: contact/
+  url: 'index.html#contact'

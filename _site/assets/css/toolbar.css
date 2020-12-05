@@ -11,7 +11,13 @@
 	margin: 50px;
 	color: #f15d00;
 	text-align : center;
-	position: static;
+	position: fixed;
+        top:0;
+        left:0;
+        right:0;
+        background-color:white;
+        z-index:6;
+        opacity:80%;
 }
 .tbSubMenu {
 	border: 2px solid #FFFFF0;
