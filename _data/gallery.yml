@@ -1,17 +1,23 @@
 - title: 144341
   desc: 
-  url: 144341
+  url: 144341.jpg
   section: jackets
   gender: women
 
 - title: 160912
   desc: 
-  url: 160912
+  url: 160912.jpg
   section: suits
   gender: women
 
 - title: 130100
   desc: 
-  url: 130100
+  url: 130100.jpg
+  section: pants
+  gender: women
+
+- title: 130100-back
+  desc: 
+  url: 130100-2.jpg
   section: pants
   gender: women
