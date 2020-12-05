@@ -42,17 +42,18 @@ I offer the following Services:</p>
 <li>Pattern grading.</li>
 <li>Vintage clothing Sales.</li>
 </ul>
+<p>When repairing and altering vintage garments ensure the best fit and appearance for both wearer and garment, maintaining integrity of the original design.</p>
+
+<p>Please contact me directly for any of the above services.</p>
+
 <div name="about">
 <a name="about"></a>
 <h2 class="my-4">About me</h2>
 <p>
-I have been collecting and making vintage fashion clothing for 35 years and I am passionate about vintage style.  I enjoy restoring quality vintage garments and, when altering, always endeavour to maintain the integrity of the original design.
+I have been collecting and crafting vintage clothing for 35 years and have a genuine passion for restoring quality garments. When altering, always endeavour to maintain the integrity of the original design. I use my own original patterns as well as vintage domestic versions to create authentic vintage products that are easily wearable in modern lifestyles.
 </p>
 <p>
-I use my own original patterns as well as vintage domestic patterns to create authentic vintage styles that are easily wearable in modern lifestyles.</p>
-<p>
-I have eighteen years industry experience in pattern making, both manual and using Lectra CAD software.  I'm a high level technician with innovative ideas, have broad knowledge of fabrics (their strengths and weakness) and I have seven years experience working in garment technology and quality assurance. 
-</p>
+With more than eighteen years industry experience in pattern making, I am efficient in both manual and Lectra CAD software.I am a high level technician with innovative ideas, have broad knowledge of fabrics (their strengths and weaknesses) therefore best use for an end product, I also have extensive experience working in garment technology and quality assurance.</p>
 <ul>I aim to:
 <li> Produce the highest quality clothing I can</li>
 <li> Make my customers happy</li>
@@ -60,8 +61,9 @@ I have eighteen years industry experience in pattern making, both manual and usi
 <li> Choose environmental friendly and sustainable products</li>
 <li> Create long lasting garments to support a sustainable environment</li>
 </ul>
-<p>Please enjoy browsing <a href="{{"index.html#shop" | relative_url}}">my online store</a> and <a href="{{"index.html#contact" | relative_url}}">contact me with any queries</a>, I am here to help you<br/>
-Helen xx
+<p>
+Please enjoy browsing <a href="{{ "index.html#gallery" | relative_url }}">the gallery</a> and please <a href="{{ "index.html#contact" | relative_url }}">contact me</a> if you have any queries, I'm here to help you,<br/>
+Helen
 </p>
 </div><!-- end about section -->
 <div name="seamstress">
