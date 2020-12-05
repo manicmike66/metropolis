@@ -1,11 +1,17 @@
-- title: 1930s Art Deco Dress
-  desc: This was a commission for an art deco dress. The customer had no idea what she wanted so we showed her the Australian Home Journals from the appropriate era. She chose this beautiful design from <a target="_NEW" href="https://4.bp.blogspot.com/-gt2-Yv5xC4o/VojrP3OnH4I/AAAAAAAAD8Q/6aK-7vuDxlI/s1600/AHJ_1937_03-cover.jpg">the May 1938 issue</a>.<br/>It was made from linen and was of course guaranteed to be a perfect fit.
-  url: ahj
-  section: dresses
+- title: 144341
+  desc: 
+  url: 144341
+  section: jackets
   gender: women
 
-- title: 1960s Dress
-  desc: This lovely dress was made from a vintage pattern, <a target="_new" href="https://vintagepatterns.fandom.com/wiki/Simplicity_5707">Simplicity 5707</a>, from 1964 and features a perfectly executed sweetheart neckline.
-  url: helendress
-  section: dresses
+- title: 160912
+  desc: 
+  url: 160912
+  section: suits
+  gender: women
+
+- title: 130100
+  desc: 
+  url: 130100
+  section: pants
   gender: women

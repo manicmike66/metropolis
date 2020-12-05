@@ -1,5 +1,5 @@
 ---
-title: Clothing for sale
+title: Gallery
 layout: normal
 description: "Clothing for sale hand made in Melbourne, Australia"
 keywords: "Clothing, for sale, Melbourne, Australia"
