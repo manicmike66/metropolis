@@ -6,3 +6,7 @@ photo on the front page should be in the gallery, under gallery on front page 'd
 upload photos
 move sizing to its own page
 create vintage clothing page (for s/h clothes for sale)
+sizing page will have women's, men's body m'ment and harrington garment m'ment chart
+move contact to own page
+create testimonials page
+move seamstress and alteration to separate page
