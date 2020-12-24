@@ -50,6 +50,10 @@ I offer the following Services:</p>
 <div name="about">
 <a name="about"></a>
 <h2 class="my-4">About me</h2>
+<a href="{{"gallery" | relative_url}}">
+<img class="img-fluid float-right" src="assets/img/art_deco_dress_back.jpg" alt="Helen in an art deco dress" />
+</a>
+</div><!-- end gallery -->
 <p>
 I have been collecting and crafting vintage clothing for 35 years and have a genuine passion for restoring quality garments. When altering, I always endeavour to maintain the integrity of the original design. Using my own original patterns as well as vintage domestic versions to create authentic vintage products that are easily wearable today.
 </p>
@@ -63,19 +67,10 @@ With more than eighteen years industry experience in pattern making, I am effici
 <li> Create long lasting garments to support a sustainable environment</li>
 </ul>
 <p>
-Please enjoy browsing <a href="{{ "index.html#gallery" | relative_url }}">the gallery</a> and please <a href="{{ "index.html#contact" | relative_url }}">contact me</a> if you have any queries, I'm here to help you.<br/>
+Please enjoy browsing <a href="{{ "index.html#gallery" | relative_url }}">the gallery</a> (or click the picture) and please <a href="{{ "index.html#contact" | relative_url }}">contact me</a> if you have any queries, I'm here to help you.<br/>
 Helen
 </p>
 </div><!-- end about section -->
-<div name="gallery" class="py-4">
-<a name="gallery"></a>
-<h2 class="my-4">Gallery</h2>
-<a href="{{"gallery" | relative_url}}">
-<figure><img src="assets/img/Harringtons.jpg" alt="Helen with Mike looking fine in Metropolis Harringtons" />
-<figcaption>View our gallery here </figcaption>
-</figure>
-</a>
-</div><!-- end gallery -->
 <div name="contact" class="py-4">
 <form action="https://getform.io/f/b59b77d7-47b2-42ad-bb29-ac8372887e98" method="POST">
 <div class="container my-4">
