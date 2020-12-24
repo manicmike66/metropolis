@@ -10,3 +10,4 @@ sizing page will have women's, men's body m'ment and harrington garment m'ment c
 move contact to own page
 create testimonials page
 move seamstress and alteration to separate page
+upload the gallery, not necessarily... pics to gallery
