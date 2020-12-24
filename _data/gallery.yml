@@ -22,34 +22,3 @@
   section: pants
   gender: women
 
-- title: Blue Harrington style bomber jacket
-  desc: The fabric and zipper both made in Australia, it doesn't get more Aussie! <br/> The outer fabric is poly-cotton and you can choose either fully reversible or non-reversible. The non-reversible slider is easier to operate. Only available in XS and XL.
-  url: bharr.jpg
-  section: jackets
-  gender: both
-  note: We can no longer source this colour fabric, so when the last one is gone that will be it.
-
-- title: Black Harrington style bomber jacket
-  desc: The fabric and zipper both made in Australia, it doesn't get more Aussie! <br/> The outer fabric is all cotton and you can choose either fully reversible or non-reversible. The non-reversible slider is easier to operate. All sizes from XS to 5XL.
-  url: blharr.jpg
-  section: jackets
-  gender: both
-
-- title: Maroon Harrington style bomber jacket
-  desc: The fabric and zipper both made in Australia, it doesn't get more Aussie! <br/> The outer fabric is poly-cotton and you can choose either fully reversible or non-reversible. The non-reversible slider is easier to operate. All sizes from XS to 5XL.
-  url: mharr.jpg
-  section: jackets
-  gender: both
-
-- title: Green Harrington style bomber jacket
-  desc: The fabric and zipper both made in Australia, it doesn't get more Aussie! <br/> The outer fabric is all cotton and you can choose either fully reversible or non-reversible. The non-reversible slider is easier to operate. All sizes from XS to 5XL.
-  url: gharr.jpg
-  section: jackets
-  gender: both
-
-- title: Blue-grey Harrington style bomber jacket
-  desc: The fabric and zipper both made in Australia, it doesn't get more Aussie! <br/> The outer fabric is poly-cotton and you can choose either fully reversible or non-reversible. The non-reversible slider is easier to operate. All sizes from XS to 5XL.
-  url: bgharr.jpg
-  section: jackets
-  gender: both
-

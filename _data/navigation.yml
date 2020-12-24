@@ -1,14 +1,14 @@
 - title: Home
   url: 'index.html'
-- title: About me
-  url: 'index.html#about'
-- title: Seamstress
-  url: 'seamstress.html'
-- title: Sizing
-  url: 'useful/sizing.html'
 - title: Gallery
   url: gallery/
-  # - title: Clothes for sale
-  #   url: 'index.html#clothesforsale'
+- title: Women
+  url: clothing/women.html
+- title: Men
+  url: clothing/men.html
+- title: Seamstress
+  url: 'seamstress.html'
+- title: About me
+  url: 'index.html#about'
 - title: Contact me
   url: 'index.html#contact'
