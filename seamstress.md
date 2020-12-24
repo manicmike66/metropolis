@@ -45,5 +45,3 @@ I custom make clothing for men and women, and can advise and recommend designs a
 </div><!-- end outer col -->
 </div><!-- end outer row -->
 </div><!-- end container -->
-</div><!-- end seamstress section -->
-

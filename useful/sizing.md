@@ -7,142 +7,64 @@ keywords: "information, clothing, size, Melbourne, Australia"
 ---
 
 
-<div class="container mb-4">
+<div class="container my-4">
 <h2>Women</h2>
-<div class="row">
-<div class="col">
-SIZE
-</div><!-- end col-->
-<div class="col">
-BUST
-</div><!-- end col-->
-<div class="col">
-WAIST        
-</div><!-- end col-->
-<div class="col">
-HIP        
-</div><!-- end col-->
-<div class="col">
-HEIGHT
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-6
-</div><!-- end col-->
-<div class="col">
-82
-</div><!-- end col-->
-<div class="col">
-61
-</div><!-- end col-->
-<div class="col">
-87
-</div><!-- end col-->
-<div class="col">
-167
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-8
-</div><!-- end col-->
-<div class="col">
-87
-</div><!-- end col-->
-<div class="col">
-66
-</div><!-- end col-->
-<div class="col">
-92
-</div><!-- end col-->
-<div class="col">
-168.5
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-10
-</div><!-- end col-->
-<div class="col">
-92
-</div><!-- end col-->
-<div class="col">
-71
-</div><!-- end col-->
-<div class="col">
-97
-</div><!-- end col-->
-<div class="col">
-170
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-12
-</div><!-- end col-->
-<div class="col">
-97
-</div><!-- end col-->
-<div class="col">
-76
-</div><!-- end col-->
-<div class="col">
-102
-</div><!-- end col-->
-<div class="col">
-171.5
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-14
-</div><!-- end col-->
-<div class="col">
-102
-</div><!-- end col-->
-<div class="col">
-81
-</div><!-- end col-->
-<div class="col">
-107
-</div><!-- end col-->
-<div class="col">
-173
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-16
-</div><!-- end col-->
-<div class="col">
-107
-</div><!-- end col-->
-<div class="col">
-86
-</div><!-- end col-->
-<div class="col">
-112
-</div><!-- end col-->
-<div class="col">
-174.5
-</div><!-- end col-->
-</div><!-- end row-->
-<div class="row">
-<div class="col">
-18
-</div><!-- end col-->
-<div class="col">
-112
-</div><!-- end col-->
-<div class="col">
-91
-</div><!-- end col-->
-<div class="col">
-117
-</div><!-- end col-->
-<div class="col">
-176
-</div><!-- end col-->
-</div><!-- end row-->
+<table class="table">
+<tr>
+<td>SIZE</td>
+<td>BUST</td>
+<td>WAIST</td>
+<td>HIP</td>
+<td>HEIGHT</td>
+</tr>
+<tr>
+<td>6</td>
+<td>82</td>
+<td>61</td>
+<td>87</td>
+<td>167</td>
+</tr>
+<tr>
+<td>8</td>
+<td>87</td>
+<td>66</td>
+<td>92</td>
+<td>168.5</td>
+</tr>
+<tr>
+<td>10</td>
+<td>92</td>
+<td>71</td>
+<td>97</td>
+<td>170</td>
+</tr>
+<tr>
+<td>12</td>
+<td>97</td>
+<td>76</td>
+<td>102</td>
+<td>171.5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>102</td>
+<td>81</td>
+<td>107</td>
+<td>173</td>
+</tr>
+<tr>
+<td>16</td>
+<td>107</td>
+<td>86</td>
+<td>112</td>
+<td>174.5</td>
+</tr>
+<tr>
+<td>18</td>
+<td>112</td>
+<td>91</td>
+<td>117</td>
+<td>176</td>
+</tr>
+</table>
 </div><!-- end container -->
