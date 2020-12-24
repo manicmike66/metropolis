@@ -30,12 +30,13 @@ keywords: "Pattern making, custom clothing, clothing, Melbourne, Helen Aldred, d
 <a name="home"></a>
 <h2>Welcome to Metropolis</h2>
 <p>
-Established in 2015, Metropolis Clothing is a 100% Australian brand of clothing inspired by historic fashions from Art Deco through to the Mid Century eras. All my designs are limited edition handmade in my studio in Melbourne, Australia.  I offer a range of services including repairs, alterations and made-to-measure garments.</p>
+Established in 2015, Metropolis Clothing is an Australian brand of clothing inspired by historic fashions from Art Deco through to the Mid Century eras. All my designs are limited edition handmade in my studio in Melbourne, Australia.  </p>
 <p>
 I offer the following Services:</p>
 <ul>
 <li>Original and fabulous clothing.</li>
-<li>Women’s and men’s made to measure clothing.</li>
+<li>Women’s made to measure clothing.</li>
+<li>Men’s casual made to measure clothing.</li>
 <li>Clothing alterations and repairs.</li>
 <li>Pattern making service (manual)</li>
 <li>Lectra CAD freelancing.</li>
@@ -50,19 +51,19 @@ I offer the following Services:</p>
 <a name="about"></a>
 <h2 class="my-4">About me</h2>
 <p>
-I have been collecting and crafting vintage clothing for 35 years and have a genuine passion for restoring quality garments. When altering, always endeavour to maintain the integrity of the original design. I use my own original patterns as well as vintage domestic versions to create authentic vintage products that are easily wearable in modern lifestyles.
+I have been collecting and crafting vintage clothing for 35 years and have a genuine passion for restoring quality garments. When altering, I always endeavour to maintain the integrity of the original design. Using my own original patterns as well as vintage domestic versions to create authentic vintage products that are easily wearable today.
 </p>
 <p>
-With more than eighteen years industry experience in pattern making, I am efficient in both manual and Lectra CAD software.I am a high level technician with innovative ideas, have broad knowledge of fabrics (their strengths and weaknesses) therefore best use for an end product, I also have extensive experience working in garment technology and quality assurance.</p>
+With more than eighteen years industry experience in pattern making, I am efficient in both manual and Lectra CAD software. I am a high level technician with innovative ideas, broad knowledge of fabrics (and therefore best use for an end product), I also have extensive experience working in garment technology and quality assurance.</p>
 <ul>I aim to:
 <li> Produce the highest quality clothing I can</li>
 <li> Make my customers happy</li>
 <li> Support local businesses where possible</li>
-<li> Choose environmental friendly and sustainable products</li>
+<li> Choose environmentally friendly and sustainable products</li>
 <li> Create long lasting garments to support a sustainable environment</li>
 </ul>
 <p>
-Please enjoy browsing <a href="{{ "index.html#gallery" | relative_url }}">the gallery</a> and please <a href="{{ "index.html#contact" | relative_url }}">contact me</a> if you have any queries, I'm here to help you,<br/>
+Please enjoy browsing <a href="{{ "index.html#gallery" | relative_url }}">the gallery</a> and please <a href="{{ "index.html#contact" | relative_url }}">contact me</a> if you have any queries, I'm here to help you.<br/>
 Helen
 </p>
 </div><!-- end about section -->

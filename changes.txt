@@ -1,0 +1,8 @@
+make the front page look good on mobiles (frame is screwing up the display size).
+create a page for sizing
+create a page for contact
+move harringtons to menswear
+photo on the front page should be in the gallery, under gallery on front page 'deco dress back', also put that dress in the gallery.
+upload photos
+move sizing to its own page
+create vintage clothing page (for s/h clothes for sale)
