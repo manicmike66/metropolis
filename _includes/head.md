@@ -17,8 +17,5 @@
 {% if page.dir contains "shop" %}
 <link rel="stylesheet" href="{{"assets/css/StorageStyle.css" | relative_url}}" type="text/css">
 {% endif %}
-{% if page.title == "bone couture" %}
-<link rel="stylesheet" href="{{"assets/css/bone.css" | relative_url}}" type="text/css">
-{% endif %}
     </head>
 

@@ -48,7 +48,7 @@
 }
 </style>
 <script>
-$(document).ready(function(){
+$( document ).ready(function() {
     $("#toggleLink").unbind().click(function() {
         var showList = $("#toggleLink").hasClass("show-nav-link");
         if (showList) {

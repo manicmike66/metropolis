@@ -11,3 +11,5 @@ move contact to own page
 create testimonials page
 move seamstress and alteration to separate page
 upload the gallery, not necessarily... pics to gallery
+add fb link @ bottom
+make attribution on HP only, RHS
