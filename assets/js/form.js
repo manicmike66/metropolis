@@ -22,8 +22,14 @@
 	}
 	function valEnquiry(x){
             var theEnquiry=document.getElementById(x).value;
+            var detect = ["HenryGab", "Earning", "$"];
             if (theEnquiry.length > 511) {
                 alert("Message too long! Please try again");
+                return false;
+            }
+            // if these words appear in the message, it is spam and must be destroyed
+            if (theEnquiry.indexOf(detect) < 0) {
+                alert("Spam detected, message deleted");
                 return false;
             }
             else{

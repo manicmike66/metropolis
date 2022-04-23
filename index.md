@@ -99,7 +99,7 @@ Weekends by appointment</p>
   <label class="sr-only" class="col-sm-4 col-form-label" for="contactnum">Your contact number:</label> <div class="col-xl-6 col-lg-8 col-md-8 col-sm-9 col-10"><input onChange="valPhone('contactnum');" required="required" aria-required="true" class="form-required form-control" type="text" id="contactnum" name="contactnum"></div>
 </div><!-- end form group -->
 <div class="form-group row my-4">
-  <label class="sr-only" class="col-sm-4 col-form-label" for="enquiry">Your enquiry:</label> <div class="col-xl-6 col-lg-8 col-md-8 col-sm-9 col-10"><textarea rows="3" required="required" aria-required="true" class="form-required form-control" type="text" id="enquiry" name="enquiry"></textarea></div>
+  <label class="sr-only" class="col-sm-4 col-form-label" for="enquiry">Your enquiry:</label> <div class="col-xl-6 col-lg-8 col-md-8 col-sm-9 col-10"><input onChange="valEnquiry('enquiry');" required="required" aria-required="true" class="form-required form-control" type="text" id="enquiry" name="enquiry"></div>
 </div><!-- end form group -->
   <div class="text-center">
   <button class="btn btn-primary" id="submit" name="submit" type="submit" value="Send enquiry">Send enquiry</button>
